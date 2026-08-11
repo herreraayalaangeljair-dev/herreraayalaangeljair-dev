@@ -1,45 +1,50 @@
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-  </ul>
+<!-- ============================== -->
+<!--        BANNER / HEADER        -->
+<!-- ============================== -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=¡Hola,%20soy%20Angel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software&descAlignY=55&descSize=18" width="100%"/>
 </div>
-<!--tech stack icons-->
+<!-- ============================== -->
+<!--         PRESENTACIÓN           -->
+<!-- ============================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<br/>
+<!-- ============================== -->
+<!--         TECNOLOGÍAS            -->
+<!-- ============================== -->
+<div align="center">
+  <h2>Tecnologías que conozco</h2>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,notion,firebase,github,html,java,js,mysql,py,react" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,notion,firebase,github,html,java,js,mysql,py,react&theme=dark" />
   </a>
 </p>
+<br/>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
-  </ul>
+<br/>
+<!-- ============================== -->
+<!--         CONECTA CONMIGO        -->
+<!-- ============================== -->
+<div align="center">
+  <h2>Conecta conmigo</h2>
 </div>
-
-<!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-herrera-2479303a8" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
+<br/>
+<!-- ============================== -->
+<!--        CONTADOR DE VISITAS     -->
+<!-- ============================== -->
 
-
-<!--profile visit count-->
+<!-- ============================== -->
+<!--            FOOTER              -->
+<!-- ============================== -->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
 </div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
