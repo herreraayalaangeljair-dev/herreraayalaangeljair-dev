@@ -68,8 +68,10 @@
   <a href="https://www.linkedin.com/in/angel-herrera-2479303a8" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" />
   </a>
+  <a href="mailto:herrera.ayala.angeljair@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" width="45" />
+  </a>
 </p>
-
 <br/>
 
 <!-- ============================== -->
@@ -78,3 +80,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
 </div>
+
+
+
