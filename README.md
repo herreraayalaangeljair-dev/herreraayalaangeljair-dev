@@ -22,40 +22,78 @@
 </div>
 
 <h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Hosting & Backend Services</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" /><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Tools & Productivity</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,notion&theme=dark" />
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" /><br/>
+      <sub><b>Notion</b></sub>
+    </td>
+  </tr>
+</table>
 <br/>
 
 <!-- ============================== -->
