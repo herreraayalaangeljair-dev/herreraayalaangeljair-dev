@@ -2,7 +2,7 @@
 <!--        BANNER / HEADER        -->
 <!-- ============================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Angel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Angel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Cybersecurity%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- ============================== -->
@@ -91,6 +91,15 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" /><br/>
       <sub><b>Notion</b></sub>
+    </td>
+  </tr>
+</table>
+<h3 align="center">Security & Networking</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap" /><br/>
+      <sub><b>Nmap</b></sub>
     </td>
   </tr>
 </table>
