@@ -51,10 +51,6 @@
       <sub><b>HTML</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /><br/>
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br/>
       <sub><b>React</b></sub>
     </td>
