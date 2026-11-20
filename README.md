@@ -100,6 +100,10 @@
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" /><br/>
       <sub><b>Notion</b></sub>
     </td>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" /><br/>
+  <sub><b>Postman</b></sub>
+</td>
   </tr>
 </table>
 <h3 align="center">Security & Networking</h3>
