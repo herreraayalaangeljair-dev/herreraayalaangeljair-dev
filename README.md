@@ -58,6 +58,10 @@
       <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br/>
       <sub><b>React</b></sub>
     </td>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular" /><br/>
+  <sub><b>Angular</b></sub>
+</td>
   </tr>
 </table>
 
@@ -77,6 +81,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" /><br/>
       <sub><b>Firebase</b></sub>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt="ASP.NET" /><br/>
+      <sub><b>ASP.NET</b></sub>
     </td>
   </tr>
 </table>
