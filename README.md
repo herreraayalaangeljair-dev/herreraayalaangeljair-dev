@@ -29,6 +29,10 @@
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" /><br/>
+  <sub><b>C#</b></sub>
+</td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" /><br/>
       <sub><b>Java</b></sub>
     </td>
